@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "link": "/",
+        "title": "Home"
+    },
+    {
+        "id": 2,
+        "link": "/products",
+        "title": "New-Products"
+    },
+    {
+        "id": 3,
+        "link": "/old-products",
+        "title": "Old-Products"
+    },
+    {
+        "id": 4,
+        "link": "/mypage",
+        "title": "My Page"
+    }
+]

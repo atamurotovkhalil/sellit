@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 1000,
+        "description": "This is a great product.",
+        "image": "./../../public/ProductsImages/ACER16GB512GBAMD5.webp",
+        "category": "Electronics",
+        "isAvailable": true
+    }
+]
